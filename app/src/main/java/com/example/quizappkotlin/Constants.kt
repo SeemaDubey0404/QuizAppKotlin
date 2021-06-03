@@ -52,9 +52,9 @@ object Constants {
             "Germany",
             "belgium",
             "Denmark",
-            4
+            3
         )
-        questionList.add((ques4))
+        questionList.add((ques5))
         return questionList
     }
 
