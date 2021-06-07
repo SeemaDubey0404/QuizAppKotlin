@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
         android:contentDescription="image"
-        android:src="@mipmap/ic_launcher" />
+        android:src="@drawable/trophy" />
 
     <TextView
         android:layout_width="wrap_content"
